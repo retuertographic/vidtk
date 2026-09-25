@@ -1,0 +1,347 @@
+{
+  "languages": [
+    {
+      "code": "es",
+      "label": "ES",
+      "flag": "🇪🇸"
+    },
+    {
+      "code": "en",
+      "label": "EN",
+      "flag": "🇬🇧"
+    },
+    {
+      "code": "de",
+      "label": "DE",
+      "flag": "🇩🇪"
+    },
+    {
+      "code": "fr",
+      "label": "FR",
+      "flag": "🇫🇷"
+    },
+    {
+      "code": "it",
+      "label": "IT",
+      "flag": "🇮🇹"
+    },
+    {
+      "code": "ru",
+      "label": "RU",
+      "flag": "🇷🇺"
+    },
+    {
+      "code": "pt",
+      "label": "PT",
+      "flag": "🇵🇹"
+    },
+    {
+      "code": "nl",
+      "label": "NL",
+      "flag": "🇳🇱"
+    }
+  ],
+  "videoBaseUrl": "http://localhost:8080/",
+  "stops": [
+    {
+      "num": 1,
+      "name": "Inicio",
+      "files": {
+        "es": "inicio-es.mp4",
+        "en": "inicio-en.mp4",
+        "de": "inicio-de.mp4",
+        "fr": "inicio-fr.mp4",
+        "it": "inicio-it.mp4",
+        "nl": "inicio-nl.mp4"
+      }
+    },
+    {
+      "num": 2,
+      "name": "Muelle de Santa Catalina",
+      "files": {
+        "es": "muelle-sta-catalina-es.mp4",
+        "en": "muelle-sta-catalina-en.mp4",
+        "de": "muelle-sta-catalina-de.mp4",
+        "fr": "muelle-sta-catalina-fr.mp4",
+        "it": "muelle-sta-catalina-it.mp4",
+        "nl": "muelle-sta-catalina-nl.mp4"
+      }
+    },
+    {
+      "num": 3,
+      "name": "Parque Santa Catalina",
+      "files": {
+        "es": "parque-sta-catalina-es.mp4",
+        "en": "parque-sta-catalina-en.mp4",
+        "de": "parque-sta-catalina-de.mp4",
+        "fr": "parque-sta-catalina-fr.mp4",
+        "it": "parque-sta-catalina-it.mp4",
+        "nl": "parque-sta-catalina-nl.mp4"
+      }
+    },
+    {
+      "num": 4,
+      "name": "Playa de las Alcaravaneras",
+      "files": {
+        "es": "playa-de-las-alcaravaneras-es.mp4",
+        "en": "playa-de-las-alcaravaneras-en.mp4",
+        "de": "playa-de-las-alcaravaneras-de.mp4",
+        "fr": "playa-de-las-alcaravaneras-fr.mp4",
+        "it": "playa-de-las-alcaravaneras-it.mp4",
+        "nl": "playa-de-las-alcaravaneras-nl.mp4"
+      }
+    },
+    {
+      "num": 5,
+      "name": "Ayuntamiento",
+      "files": {
+        "es": "ayuntamiento-es.mp4",
+        "en": "ayuntamiento-en.mp4",
+        "de": "ayuntamiento-de.mp4",
+        "fr": "ayuntamiento-fr.mp4",
+        "it": "ayuntamiento-it.mp4",
+        "nl": "ayuntamiento-nl.mp4"
+      }
+    },
+    {
+      "num": 6,
+      "name": "Hotel Santa Catalina",
+      "files": {
+        "es": "hotel-sta-catalina-es.mp4",
+        "en": "hotel-sta-catalina-en.mp4",
+        "de": "hotel-sta-catalina-de.mp4",
+        "fr": "hotel-sta-catalina-fr.mp4",
+        "it": "hotel-sta-catalina-it.mp4",
+        "nl": "hotel-sta-catalina-nl.mp4"
+      }
+    },
+    {
+      "num": 7,
+      "name": "Muelle Deportivo",
+      "files": {
+        "es": "muelle-deportivo-es.mp4",
+        "en": "muelle-deportivo-en.mp4",
+        "de": "muelle-deportivo-de.mp4",
+        "fr": "muelle-deportivo-fr.mp4",
+        "it": "muelle-deportivo-it.mp4",
+        "nl": "muelle-deportivo-nl.mp4"
+      }
+    },
+    {
+      "num": 8,
+      "name": "Av. Marítima",
+      "files": {
+        "es": "av-maritima-es.mp4",
+        "en": "av-maritima-en.mp4",
+        "de": "av-maritima-de.mp4",
+        "fr": "av-maritima-fr.mp4",
+        "it": "av-maritima-it.mp4",
+        "nl": "av-maritima-nl.mp4"
+      }
+    },
+    {
+      "num": 9,
+      "name": "Parque San Telmo",
+      "files": {
+        "es": "san-telmo-es.mp4",
+        "en": "san-telmo-en.mp4",
+        "de": "san-telmo-de.mp4",
+        "fr": "san-telmo-fr.mp4",
+        "it": "san-telmo-it.mp4",
+        "nl": "san-telmo-nl.mp4"
+      }
+    },
+    {
+      "num": 10,
+      "name": "Calle Triana",
+      "files": {
+        "es": "triana-es.mp4",
+        "de": "triana-de.mp4",
+        "fr": "triana-fr.mp4",
+        "it": "triana-it.mp4",
+        "nl": "triana-nl.mp4",
+        "en": "triana-en.mp4"
+      }
+    },
+    {
+      "num": 11,
+      "name": "Teatro Pérez Galdós",
+      "files": {
+        "es": "teatro-perez-galdos-es.mp4",
+        "en": "teatro-perez-galdos-en.mp4",
+        "de": "teatro-perez-galdos-de.mp4",
+        "fr": "teatro-perez-galdos-fr.mp4",
+        "it": "teatro-perez-galdos-it.mp4",
+        "nl": "teatro-perez-galdos-nl.mp4"
+      }
+    },
+    {
+      "num": 12,
+      "name": "Mercado de Vegueta",
+      "files": {
+        "es": "mercado-vegueta-es.mp4",
+        "en": "mercado-vegueta-en.mp4",
+        "de": "mercado-vegueta-de.mp4",
+        "fr": "mercado-vegueta-fr.mp4",
+        "it": "mercado-vegueta-it.mp4",
+        "nl": "mercado-vegueta-nl.mp4"
+      }
+    },
+    {
+      "num": 13,
+      "name": "Plaza de Santo Domingo",
+      "files": {
+        "es": "plaza-sto-domingo-es.mp4",
+        "en": "plaza-sto-domingo-en.mp4",
+        "de": "plaza-sto-domingo-de.mp4",
+        "fr": "plaza-sto-domingo-fr.mp4",
+        "it": "plaza-sto-domingo-it.mp4",
+        "nl": "plaza-sto-domingo-nl.mp4"
+      }
+    },
+    {
+      "num": 14,
+      "name": "Museo Canario",
+      "files": {
+        "es": "museo-canario-es.mp4",
+        "en": "museo-canario-en.mp4",
+        "de": "museo-canario-de.mp4",
+        "fr": "museo-canario-fr.mp4",
+        "it": "museo-canario-it.mp4",
+        "nl": "museo-canario-nl.mp4"
+      }
+    },
+    {
+      "num": 15,
+      "name": "Catedral de Santa Ana",
+      "files": {
+        "es": "plaza-sta-ana-y-catedral-es.mp4",
+        "en": "plaza-sta-ana-y-catedral-en.mp4",
+        "de": "plaza-sta-ana-y-catedral-de.mp4",
+        "fr": "plaza-sta-ana-y-catedral-fr.mp4",
+        "it": "plaza-sta-ana-y-catedral-it.mp4",
+        "nl": "plaza-sta-ana-y-catedral-nl.mp4"
+      }
+    },
+    {
+      "num": 16,
+      "name": "Vegueta (Casco Histórico)",
+      "files": {
+        "es": "casco-historico-es.mp4",
+        "en": "casco-historico-en.mp4",
+        "de": "casco-historico-de.mp4",
+        "fr": "casco-historico-fr.mp4",
+        "it": "casco-historico-it.mp4",
+        "nl": "casco-historico-nl.mp4"
+      }
+    },
+    {
+      "num": 17,
+      "name": "Gabinete Literario",
+      "files": {
+        "es": "gabinete-literario-es.mp4",
+        "en": "gabinete-literario-en.mp4",
+        "de": "gabinete-literario-de.mp4",
+        "fr": "gabinete-literario-fr.mp4",
+        "it": "gabinete-literario-it.mp4",
+        "nl": "gabinete-literario-nl.mp4"
+      }
+    },
+    {
+      "num": 18,
+      "name": "Alameda de Colón",
+      "files": {
+        "es": "alameda-de-colon-es.mp4",
+        "en": "alameda-de-colon-en.mp4",
+        "de": "alameda-de-colon-de.mp4",
+        "fr": "alameda-de-colon-fr.mp4",
+        "it": "alameda-de-colon-it.mp4",
+        "nl": "alameda-de-colon-nl.mp4"
+      }
+    },
+    {
+      "num": 19,
+      "name": "Castillo de Mata",
+      "files": {
+        "es": "castillo-de-mata-es.mp4",
+        "en": "castillo-de-mata-en.mp4",
+        "de": "castillo-de-mata-de.mp4",
+        "fr": "castillo-de-mata-fr.mp4",
+        "it": "castillo-de-mata-it.mp4",
+        "nl": "castillo-de-mata-nl.mp4"
+      }
+    },
+    {
+      "num": 20,
+      "name": "Paseo de Chil",
+      "files": {
+        "es": "paseo-chil-es.mp4",
+        "en": "paseo-chil-en.mp4",
+        "de": "paseo-chil-de.mp4",
+        "fr": "paseo-chil-fr.mp4",
+        "it": "paseo-chil-it.mp4",
+        "nl": "paseo-chil-nl.mp4"
+      }
+    },
+    {
+      "num": 21,
+      "name": "Mirador del Parque Doramas",
+      "files": {
+        "es": "mirador-del-parque-doramas-es.mp4",
+        "en": "mirador-del-parque-doramas-en.mp4",
+        "de": "mirador-del-parque-doramas-de.mp4",
+        "fr": "mirador-del-parque-doramas-fr.mp4",
+        "it": "mirador-del-parque-doramas-it.mp4",
+        "nl": "mirador-del-parque-doramas-nl.mp4"
+      }
+    },
+    {
+      "num": 22,
+      "name": "Ciudad Jardín",
+      "files": {
+        "es": "ciudad-jardin-es.mp4",
+        "en": "ciudad-jardin-en.mp4",
+        "de": "ciudad-jardin-de.mp4",
+        "fr": "ciudad-jardin-fr.mp4",
+        "it": "ciudad-jardin-it.mp4",
+        "nl": "ciudad-jardin-nl.mp4"
+      }
+    },
+    {
+      "num": 23,
+      "name": "Antiguo Estadio Insular",
+      "files": {
+        "es": "antiguo-estadio-insular-es.mp4",
+        "en": "antiguo-estadio-insular-en.mp4",
+        "de": "antiguo-estadio-insular-de.mp4",
+        "fr": "antiguo-estadio-insular-fr.mp4",
+        "it": "antiguo-estadio-insular-it.mp4",
+        "nl": "antiguo-estadio-insular-nl.mp4"
+      }
+    },
+    {
+      "num": 24,
+      "name": "Avenida Mesa y López",
+      "files": {
+        "es": "av-jose-mesa-y-lopez-es.mp4",
+        "en": "av-jose-mesa-y-lopez-en.mp4",
+        "de": "av-jose-mesa-y-lopez-de.mp4",
+        "fr": "av-jose-mesa-y-lopez-fr.mp4",
+        "it": "av-jose-mesa-y-lopez-it.mp4",
+        "nl": "av-jose-mesa-y-lopez-nl.mp4"
+      }
+    },
+    {
+      "num": 25,
+      "name": "Despedida",
+      "files": {
+        "es": "despedida-es.mp4",
+        "en": "despedida-en.mp4",
+        "de": "despedida-de.mp4",
+        "fr": "despedida-fr.mp4",
+        "it": "despedida-it.mp4",
+        "nl": "despedida-nl.mp4"
+      }
+    }
+  ]
+}
