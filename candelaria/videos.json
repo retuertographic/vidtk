@@ -1,0 +1,48 @@
+{
+  "languages": [
+    { "code": "es", "label": "ES", "flag": "🇪🇸" },
+    { "code": "en", "label": "EN", "flag": "🇬🇧" },
+    { "code": "de", "label": "DE", "flag": "🇩🇪" },
+    { "code": "fr", "label": "FR", "flag": "🇫🇷" },
+    { "code": "it", "label": "IT", "flag": "🇮🇹" },
+    { "code": "ru", "label": "RU", "flag": "🇷🇺" },
+    { "code": "pt", "label": "PT", "flag": "🇵🇹" },
+    { "code": "nl", "label": "NL", "flag": "🇳🇱" }
+  ],
+  "videoBaseUrl": "http://localhost:8080/",
+  "stops": [
+    { "num": 1, "name": "Hotel Punta del Rey", "files": {
+        "es": "hotel-punta-del-rey-es.mp4", "en": "hotel-punta-del-rey-en.mp4", "de": "hotel-punta-del-rey-de.mp4",
+        "fr": "hotel-punta-del-rey-fr.mp4", "it": "hotel-punta-del-rey-it.mp4", "nl": "hotel-punta-del-rey-nl.mp4" } },
+    { "num": 2, "name": "Basílica de Candelaria", "files": {
+        "es": "basilica-de-candelaria-es.mp4", "en": "basilica-de-candelaria-en.mp4", "de": "basilica-de-candelaria-de.mp4",
+        "fr": "basilica-de-candelaria-fr.mp4", "it": "basilica-de-candelaria-it.mp4", "nl": "basilica-de-candelaria-nl.mp4" } },
+    { "num": 3, "name": "Plaza de la Patrona de Canarias", "files": {
+        "es": "plaza-de-la-patrona-de-canarias-es.mp4", "en": "plaza-de-la-patrona-de-canarias-en.mp4", "de": "plaza-de-la-patrona-de-canarias-de.mp4",
+        "fr": "plaza-de-la-patrona-de-canarias-fr.mp4", "it": "plaza-de-la-patrona-de-canarias-it.mp4", "nl": "plaza-de-la-patrona-de-canarias-nl.mp4" } },
+    { "num": 4, "name": "Ayuntamiento", "files": {
+        "es": "ayuntamiento-de-candelaria-es.mp4", "en": "ayuntamiento-de-candelaria-en.mp4", "de": "ayuntamiento-de-candelaria-de.mp4",
+        "fr": "ayuntamiento-de-candelaria-fr.mp4", "it": "ayuntamiento-de-candelaria-it.mp4", "nl": "ayuntamiento-de-candelaria-nl.mp4" } },
+    { "num": 5, "name": "Playa de Punta Larga", "files": {
+        "es": "playa-de-punta-larga-es.mp4", "en": "playa-de-punta-larga-en.mp4", "de": "playa-de-punta-larga-de.mp4",
+        "fr": "playa-de-punta-larga-fr.mp4", "it": "playa-de-punta-larga-it.mp4", "nl": "playa-de-punta-larga-nl.mp4" } },
+    { "num": 6, "name": "Avenida de los Menceyes", "files": {
+        "es": "avenida-de-los-menceyes-es.mp4", "en": "avenida-de-los-menceyes-en.mp4", "de": "avenida-de-los-menceyes-de.mp4",
+        "fr": "avenida-de-los-menceyes-fr.mp4", "it": "avenida-de-los-menceyes-it.mp4", "nl": "avenida-de-los-menceyes-nl.mp4" } },
+    { "num": 7, "name": "Cueva de Achbinico", "files": {
+        "es": "cueva-de-achbinico-es.mp4", "en": "cueva-de-achbinico-en.mp4", "de": "cueva-de-achbinico-de.mp4",
+        "fr": "cueva-de-achbinico-fr.mp4", "it": "cueva-de-achbinico-it.mp4", "nl": "cueva-de-achbinico-nl.mp4" } },
+    { "num": 8, "name": "Paseo marítimo", "files": {
+        "es": "paseo-maritimo-de-candelaria-es.mp4", "en": "paseo-maritimo-de-candelaria-en.mp4", "de": "paseo-maritimo-de-candelaria-de.mp4",
+        "fr": "paseo-maritimo-de-candelaria-fr.mp4", "it": "paseo-maritimo-de-candelaria-it.mp4", "nl": "paseo-maritimo-de-candelaria-nl.mp4" } },
+    { "num": 9, "name": "Avenida Marítima", "files": {
+        "es": "avenida-maritima-de-candelaria-es.mp4", "en": "avenida-maritima-de-candelaria-en.mp4", "de": "avenida-maritima-de-candelaria-de.mp4",
+        "fr": "avenida-maritima-de-candelaria-fr.mp4", "it": "avenida-maritima-de-candelaria-it.mp4", "nl": "avenida-maritima-de-candelaria-nl.mp4" } },
+    { "num": 10, "name": "Plaza de Teror", "files": {
+        "es": "plaza-de-teror-es.mp4", "en": "plaza-de-teror-en.mp4", "de": "plaza-de-teror-de.mp4",
+        "fr": "plaza-de-teror-fr.mp4", "it": "plaza-de-teror-it.mp4", "nl": "plaza-de-teror-nl.mp4" } },
+    { "num": 11, "name": "Parroquia de Santa Ana", "files": {
+        "es": "parroquia-de-santa-ana-es.mp4", "en": "parroquia-de-santa-ana-en.mp4", "de": "parroquia-de-santa-ana-de.mp4",
+        "fr": "parroquia-de-santa-ana-fr.mp4", "it": "parroquia-de-santa-ana-it.mp4", "nl": "parroquia-de-santa-ana-nl.mp4" } }
+  ]
+}
